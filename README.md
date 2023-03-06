@@ -34,7 +34,7 @@ Bluetooth: Intel
 Working on macOS Monterey
 
 
-Opencore Version : 0.8.9
+Opencore Version : 0.9.0
 
 
 
