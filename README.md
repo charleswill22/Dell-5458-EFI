@@ -23,7 +23,7 @@ Wifi: Intel AC 9462
 
 
 
-Ethernet: Realtek RTL 8100
+Ethernet: Realtek RTL 8139/810x
 
 
 
@@ -31,7 +31,12 @@ Bluetooth: Intel
 
 
 
+Audio: Realtek ALC 225
+
+
+
 Working on macOS Monterey
+
 
 
 Opencore Version : 0.9.0
