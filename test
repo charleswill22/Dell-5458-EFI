@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://www.open-epg.com/generate/cVvtrMjW2Q.xml"
 #EXTINF:-1 tvg-id="A&amp;E" group-title="Filmes e Séries",A&amp;E
 http://domainforxc.cfd/live/746147216xtvs/w884E6734a/666.m3u8
 #EXTINF:-1 tvg-id="AMC" group-title="Filmes e Séries",AMC
