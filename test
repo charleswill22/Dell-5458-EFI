@@ -211,3 +211,13 @@ http://domainforxc.cfd/live/360121095/Q360z4362q/377228.m3u8
 http://domainforxc.cfd/live/360121095/Q360z4362q/377232.m3u8
 #EXTINF:-1 tvg-id="Loading" group-title="Infantil",Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Band" group-title="Abertos",Band
+http://domainforxc.cfd/live/360121095/Q360z4362q/255465.m3u8
+#EXTINF:-1 tvg-id="TV Globo" group-title="Abertos",TV Globo
+http://domainforxc.cfd/live/360121095/Q360z4362q/2455.m3u8
+#EXTINF:-1 tvg-id="Record TV" group-title="Abertos",Record TV
+http://domainforxc.cfd/live/360121095/Q360z4362q/244129.m3u8
+#EXTINF:-1 tvg-id="SBT" group-title="Abertos",SBT
+http://domainforxc.cfd/live/360121095/Q360z4362q/244161.m3u8
+#EXTINF:-1 tvg-id="RedeTV" group-title="Abertos",RedeTV
+http://domainforxc.cfd/live/360121095/Q360z4362q/81070.m3u8
