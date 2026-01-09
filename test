@@ -195,3 +195,19 @@ http://domainforxc.cfd/live/287945811/148063/474.m3u8
 http://domainforxc.cfd/live/287945811/148063/479.m3u8
 #EXTINF:-1 tvg-id="Record News" group-title="Notícias",Record News
 http://domainforxc.cfd/live/287945811/148063/488.m3u8
+#EXTINF:-1 tvg-id="Adult Swim" group-title="Infantil",Adult Swim
+http://domainforxc.cfd/live/360121095/Q360z4362q/376344.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network" group-title="Infantil",Cartoon Network
+http://domainforxc.cfd/live/360121095/Q360z4362q/352.m3u8
+#EXTINF:-1 tvg-id="Cartoonito" group-title="Infantil",Cartoonito
+http://domainforxc.cfd/live/360121095/Q360z4362q/110683.m3u8
+#EXTINF:-1 tvg-id="Discovery Kids" group-title="Infantil",Discovery Kids
+http://domainforxc.cfd/live/360121095/Q360z4362q/364.m3u8
+#EXTINF:-1 tvg-id="DumDum" group-title="Infantil",DumDum
+http://domainforxc.cfd/live/360121095/Q360z4362q/311639.m3u8
+#EXTINF:-1 tvg-id="Gloob" group-title="Infantil",Gloob
+http://domainforxc.cfd/live/360121095/Q360z4362q/377228.m3u8
+#EXTINF:-1 tvg-id="Gloobinho" group-title="Infantil",Gloobinho
+http://domainforxc.cfd/live/360121095/Q360z4362q/377232.m3u8
+#EXTINF:-1 tvg-id="Loading" group-title="Infantil",Loading
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
