@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/app/pdownload.php?file=cVvtrMjW2Q.xml"
 #EXTINF:-1 tvg-id="Câmera 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_Big_Brother_Brasil.png/1280px-Logo_Big_Brother_Brasil.png" group-title="BBB 26",Câmera 1
-http://domainforxc.cfd/live/786209/h364s7375h/602966.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/602966.m3u8
 #EXTINF:-1 tvg-id="Câmera 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_Big_Brother_Brasil.png/1280px-Logo_Big_Brother_Brasil.png" group-title="BBB 26",Câmera 2
-http://domainforxc.cfd/live/786209/h364s7375h/602968.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/602968.m3u8
 #EXTINF:-1 tvg-id="Câmera 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_Big_Brother_Brasil.png/1280px-Logo_Big_Brother_Brasil.png" group-title="BBB 26",Câmera 3
-http://domainforxc.cfd/live/786209/h364s7375h/602971.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/602971.m3u8
 #EXTINF:-1 tvg-id="Câmera 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_Big_Brother_Brasil.png/1280px-Logo_Big_Brother_Brasil.png" group-title="BBB 26",Câmera 4
-http://domainforxc.cfd/live/786209/h364s7375h/602972.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/602972.m3u8
 #EXTINF:-1 tvg-id="A&amp;E" group-title="Filmes e Séries",A&amp;E
 http://domainforxc.cfd/live/746147216xtvs/w884E6734a/666.m3u8
 #EXTINF:-1 tvg-id="AMC" group-title="Filmes e Séries",AMC
@@ -92,109 +92,109 @@ http://domainforxc.cfd/live/746147216xtvs/w884E6734a/235.m3u8
 #EXTINF:-1 tvg-id="Combate" group-title="Esportes",Combate
 http://domainforxc.cfd/live/746147216xtvs/w884E6734a/240.m3u8
 #EXTINF:-1 tvg-id="DAZN 1" group-title="Esportes",DAZN 1
-http://domainforxc.cfd/live/786209/h364s7375h/229982.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/229982.m3u8
 #EXTINF:-1 tvg-id="DAZN 2" group-title="Esportes",DAZN 2
-http://domainforxc.cfd/live/786209/h364s7375h/229984.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/229984.m3u8
 #EXTINF:-1 tvg-id="DAZN 3" group-title="Esportes",DAZN 3
-http://domainforxc.cfd/live/786209/h364s7375h/229988.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/229988.m3u8
 #EXTINF:-1 tvg-id="Disney+ 1" group-title="Esportes",Disney+ 1
-http://domainforxc.cfd/live/786209/h364s7375h/232230.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/232230.m3u8
 #EXTINF:-1 tvg-id="Disney+ 2" group-title="Esportes",Disney+ 2
-http://domainforxc.cfd/live/786209/h364s7375h/232234.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/232234.m3u8
 #EXTINF:-1 tvg-id="Disney+ 3" group-title="Esportes",Disney+ 3
-http://domainforxc.cfd/live/786209/h364s7375h/232238.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/232238.m3u8
 #EXTINF:-1 tvg-id="Disney+ 4" group-title="Esportes",Disney+ 4
-http://domainforxc.cfd/live/786209/h364s7375h/232242.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/232242.m3u8
 #EXTINF:-1 tvg-id="ESPN" group-title="Esportes",ESPN
-http://domainforxc.cfd/live/786209/h364s7375h/309458.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/309458.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" group-title="Esportes",ESPN 2
-http://domainforxc.cfd/live/786209/h364s7375h/215.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/215.m3u8
 #EXTINF:-1 tvg-id="ESPN 3" group-title="Esportes",ESPN 3
-http://domainforxc.cfd/live/786209/h364s7375h/220.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/220.m3u8
 #EXTINF:-1 tvg-id="ESPN 4" group-title="Esportes",ESPN 4
-http://domainforxc.cfd/live/786209/h364s7375h/225.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/225.m3u8
 #EXTINF:-1 tvg-id="ESPN 5" group-title="Esportes",ESPN 5
-http://domainforxc.cfd/live/786209/h364s7375h/563030.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/563030.m3u8
 #EXTINF:-1 tvg-id="ESPN 6" group-title="Esportes",ESPN 6
-http://domainforxc.cfd/live/786209/h364s7375h/563035.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/563035.m3u8
 #EXTINF:-1 tvg-id="HBO Max" group-title="Esportes",HBO Max
-http://domainforxc.cfd/live/786209/h364s7375h/121598.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/121598.m3u8
 #EXTINF:-1 tvg-id="HBO Max 2" group-title="Esportes",HBO Max 2
-http://domainforxc.cfd/live/786209/h364s7375h/121600.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/121600.m3u8
 #EXTINF:-1 tvg-id="HBO Max 3" group-title="Esportes",HBO Max 3
-http://domainforxc.cfd/live/786209/h364s7375h/121604.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/121604.m3u8
 #EXTINF:-1 tvg-id="HBO Max 4" group-title="Esportes",HBO Max 4
-http://domainforxc.cfd/live/786209/h364s7375h/121610.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/121610.m3u8
 #EXTINF:-1 tvg-id="Paramount+" group-title="Esportes",Paramount+
-http://domainforxc.cfd/live/786209/h364s7375h/250563.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/250563.m3u8
 #EXTINF:-1 tvg-id="Paramount+ 2" group-title="Esportes",Paramount+ 2
-http://domainforxc.cfd/live/786209/h364s7375h/368440.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/368440.m3u8
 #EXTINF:-1 tvg-id="Paramount+ 3" group-title="Esportes",Paramount+ 3
-http://domainforxc.cfd/live/786209/h364s7375h/250571.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/250571.m3u8
 #EXTINF:-1 tvg-id="Paramount+ 4" group-title="Esportes",Paramount+ 4
-http://domainforxc.cfd/live/786209/h364s7375h/368448.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/368448.m3u8
 #EXTINF:-1 tvg-id="Premiere" group-title="Esportes",Premiere
-http://domainforxc.cfd/live/786209/h364s7375h/494.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/494.m3u8
 #EXTINF:-1 tvg-id="Premiere 2" group-title="Esportes",Premiere 2
-http://domainforxc.cfd/live/786209/h364s7375h/499.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/499.m3u8
 #EXTINF:-1 tvg-id="Premiere 3" group-title="Esportes",Premiere 3
-http://domainforxc.cfd/live/786209/h364s7375h/504.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/504.m3u8
 #EXTINF:-1 tvg-id="Premiere 4" group-title="Esportes",Premiere 4
-http://domainforxc.cfd/live/786209/h364s7375h/509.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/509.m3u8
 #EXTINF:-1 tvg-id="Premiere 5" group-title="Esportes",Premiere 5
-http://domainforxc.cfd/live/786209/h364s7375h/514.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/514.m3u8
 #EXTINF:-1 tvg-id="Premiere 6" group-title="Esportes",Premiere 6
-http://domainforxc.cfd/live/786209/h364s7375h/519.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/519.m3u8
 #EXTINF:-1 tvg-id="Premiere 7" group-title="Esportes",Premiere 7
-http://domainforxc.cfd/live/786209/h364s7375h/524.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/524.m3u8
 #EXTINF:-1 tvg-id="Premiere 8" group-title="Esportes",Premiere 8
-http://domainforxc.cfd/live/786209/h364s7375h/380749.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/380749.m3u8
 #EXTINF:-1 tvg-id="Prime Video" group-title="Esportes",Prime Video
-http://domainforxc.cfd/live/786209/h364s7375h/537640.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/537640.m3u8
 #EXTINF:-1 tvg-id="Prime Video 2" group-title="Esportes",Prime Video 2
-http://domainforxc.cfd/live/786209/h364s7375h/537642.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/537642.m3u8
 #EXTINF:-1 tvg-id="Prime Video 3" group-title="Esportes",Prime Video 3
-http://domainforxc.cfd/live/786209/h364s7375h/537644.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/537644.m3u8
 #EXTINF:-1 tvg-id="SportTV" group-title="Esportes",SportTV
-http://domainforxc.cfd/live/786209/h364s7375h/118881.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/118881.m3u8
 #EXTINF:-1 tvg-id="SportTV 2" group-title="Esportes",SportTV 2
-http://domainforxc.cfd/live/786209/h364s7375h/554.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/554.m3u8
 #EXTINF:-1 tvg-id="SportTV 3" group-title="Esportes",SportTV 3
-http://domainforxc.cfd/live/786209/h364s7375h/559.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/559.m3u8
 #EXTINF:-1 tvg-id="Nosso Futebol" group-title="Esportes",Nosso Futebol
-http://domainforxc.cfd/live/786209/h364s7375h/301421.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/301421.m3u8
 #EXTINF:-1 tvg-id="UFC Fight Pass" group-title="Esportes",UFC Fight Pass
-http://domainforxc.cfd/live/786209/h364s7375h/250112.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/250112.m3u8
 #EXTINF:-1 tvg-id="XSports" group-title="Esportes",XSports
-http://domainforxc.cfd/live/786209/h364s7375h/580835.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/580835.m3u8
 #EXTINF:-1 tvg-id="BIS" group-title="Variedades",BIS
-http://domainforxc.cfd/live/786209/h364s7375h/376504.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/376504.m3u8
 #EXTINF:-1 tvg-id="Curta!" group-title="Variedades",Curta!
-http://domainforxc.cfd/live/786209/h364s7375h/2612.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/2612.m3u8
 #EXTINF:-1 tvg-id="Fashion TV" group-title="Variedades",Fashion TV
-http://domainforxc.cfd/live/786209/h364s7375h/2476.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/2476.m3u8
 #EXTINF:-1 tvg-id="Fish TV" group-title="Variedades",Fish TV
-http://domainforxc.cfd/live/786209/h364s7375h/248.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/248.m3u8
 #EXTINF:-1 tvg-id="Food Network" group-title="Variedades",Food Network
-http://domainforxc.cfd/live/786209/h364s7375h/2480.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/2480.m3u8
 #EXTINF:-1 tvg-id="GNT" group-title="Variedades",GNT
-http://domainforxc.cfd/live/786209/h364s7375h/377238.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/377238.m3u8
 #EXTINF:-1 tvg-id="Lifetime" group-title="Variedades",Lifetime
-http://domainforxc.cfd/live/786209/h364s7375h/2488.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/2488.m3u8
 #EXTINF:-1 tvg-id="Modo Viagem" group-title="Variedades",Modo Viagem
-http://domainforxc.cfd/live/786209/h364s7375h/89181.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/89181.m3u8
 #EXTINF:-1 tvg-id="Multishow" group-title="Variedades",Multishow
-http://domainforxc.cfd/live/786209/h364s7375h/377241.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/377241.m3u8
 #EXTINF:-1 tvg-id="Music Box Brasil" group-title="Variedades",Music Box Brasil
-http://domainforxc.cfd/live/786209/h364s7375h/2520.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/2520.m3u8
 #EXTINF:-1 tvg-id="Prime Box Brasil" group-title="Variedades",Prime Box Brasil
-http://domainforxc.cfd/live/786209/h364s7375h/537632.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/537632.m3u8
 #EXTINF:-1 tvg-id="TLC" group-title="Variedades",TLC
-http://domainforxc.cfd/live/786209/h364s7375h/728.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/728.m3u8
 #EXTINF:-1 tvg-id="Trace Brasil" group-title="Variedades",Trace Brasil
-http://domainforxc.cfd/live/786209/h364s7375h/2532.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/2532.m3u8
 #EXTINF:-1 tvg-id="Travel Box Brasil" group-title="Variedades",Travel Box Brasil
-http://domainforxc.cfd/live/786209/h364s7375h/376353.m3u8
+http://domainforxc.cfd/live/786209/H364s7375h/376353.m3u8
 #EXTINF:-1 tvg-id="Band News" group-title="Notícias",Band News
 http://domainforxc.cfd/live/287945811/148063/469.m3u8
 #EXTINF:-1 tvg-id="CNN Brasil" group-title="Notícias",CNN Brasil
