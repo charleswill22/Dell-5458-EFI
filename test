@@ -1,224 +1,223 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/app/pdownload.php?file=cVvtrMjW2Q.xml"
-#EXTINF:-1 tvg-id="Câmera 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_Big_Brother_Brasil.png/1280px-
 #EXTINF:-1 tvg-id="A&amp;E" group-title="Filmes e Séries",A&amp;E
-http://dns.explouddev.com/live/992005733/61992005733/666.m3u8
+http://dns.explouddev.com/live/287945811/148063/666.m3u8
 #EXTINF:-1 tvg-id="AMC" group-title="Filmes e Séries",AMC
-http://dns.explouddev.com/live/992005733/61992005733/671.m3u8
+http://dns.explouddev.com/live/287945811/148063/671.m3u8
 #EXTINF:-1 tvg-id="AXN" group-title="Filmes e Séries",AXN
-http://dns.explouddev.com/live/992005733/61992005733/676.m3u8
+http://dns.explouddev.com/live/287945811/148063/676.m3u8
 #EXTINF:-1 tvg-id="Canal Brasil" group-title="Filmes e Séries",Canal Brasil
-http://dns.explouddev.com/live/992005733/61992005733/146.m3u8
+http://dns.explouddev.com/live/287945811/148063/146.m3u8
 #EXTINF:-1 tvg-id="Cinemax" group-title="Filmes e Séries",Cinemax
-http://dns.explouddev.com/live/992005733/61992005733/682.m3u8
+http://dns.explouddev.com/live/287945811/148063/682.m3u8
 #EXTINF:-1 tvg-id="HBO" group-title="Filmes e Séries",HBO
-http://dns.explouddev.com/live/992005733/61992005733/18751.m3u8
+http://dns.explouddev.com/live/287945811/148063/18751.m3u8
 #EXTINF:-1 tvg-id="HBO2" group-title="Filmes e Séries",HBO2
-http://dns.explouddev.com/live/992005733/61992005733/18755.m3u8
+http://dns.explouddev.com/live/287945811/148063/18755.m3u8
 #EXTINF:-1 tvg-id="HBO Family" group-title="Filmes e Séries",HBO Family
-http://dns.explouddev.com/live/992005733/61992005733/18759.m3u8
+http://dns.explouddev.com/live/287945811/148063/18759.m3u8
 #EXTINF:-1 tvg-id="HBO Plus" group-title="Filmes e Séries",HBO Plus
-http://dns.explouddev.com/live/992005733/61992005733/18764.m3u8
+http://dns.explouddev.com/live/287945811/148063/18764.m3u8
 #EXTINF:-1 tvg-id="HBO Pop" group-title="Filmes e Séries",HBO Pop
-http://dns.explouddev.com/live/992005733/61992005733/18779.m3u8
+http://dns.explouddev.com/live/287945811/148063/18779.m3u8
 #EXTINF:-1 tvg-id="HBO Signature" group-title="Filmes e Séries",HBO Signature
-http://dns.explouddev.com/live/992005733/61992005733/18767.m3u8
+http://dns.explouddev.com/live/287945811/148063/18767.m3u8
 #EXTINF:-1 tvg-id="HBO Xtreme" group-title="Filmes e Séries",HBO Xtreme
-http://dns.explouddev.com/live/992005733/61992005733/18775.m3u8
+http://dns.explouddev.com/live/287945811/148063/18775.m3u8
 #EXTINF:-1 tvg-id="Megapix" group-title="Filmes e Séries",Megapix
-http://dns.explouddev.com/live/992005733/61992005733/692.m3u8
+http://dns.explouddev.com/live/287945811/148063/692.m3u8
 #EXTINF:-1 tvg-id="Sony Channel" group-title="Filmes e Séries",Sony Channel
-http://dns.explouddev.com/live/992005733/61992005733/702.m3u8
+http://dns.explouddev.com/live/287945811/148063/702.m3u8
 #EXTINF:-1 tvg-id="Space" group-title="Filmes e Séries",Space
-http://dns.explouddev.com/live/992005733/61992005733/707.m3u8
+http://dns.explouddev.com/live/287945811/148063/707.m3u8
 #EXTINF:-1 tvg-id="Studio Universal" group-title="Filmes e Séries",Studio Universal
-http://dns.explouddev.com/live/992005733/61992005733/713.m3u8
+http://dns.explouddev.com/live/287945811/148063/713.m3u8
 #EXTINF:-1 tvg-id="TCM" group-title="Filmes e Séries",TCM
-http://dns.explouddev.com/live/992005733/61992005733/740.m3u8
+http://dns.explouddev.com/live/287945811/148063/740.m3u8
 #EXTINF:-1 tvg-id="Telecine Action" group-title="Filmes e Séries",Telecine Action
-http://dns.explouddev.com/live/992005733/61992005733/615.m3u8
+http://dns.explouddev.com/live/287945811/148063/615.m3u8
 #EXTINF:-1 tvg-id="Telecine Cult" group-title="Filmes e Séries",Telecine Cult
-http://dns.explouddev.com/live/992005733/61992005733/620.m3u8
+http://dns.explouddev.com/live/287945811/148063/620.m3u8
 #EXTINF:-1 tvg-id="Telecine Fun" group-title="Filmes e Séries",Telecine Fun
-http://dns.explouddev.com/live/992005733/61992005733/625.m3u8
+http://dns.explouddev.com/live/287945811/148063/625.m3u8
 #EXTINF:-1 tvg-id="Telecine Pipoca" group-title="Filmes e Séries",Telecine Pipoca
-http://dns.explouddev.com/live/992005733/61992005733/630.m3u8
+http://dns.explouddev.com/live/287945811/148063/630.m3u8
 #EXTINF:-1 tvg-id="Telecine Premium" group-title="Filmes e Séries",Telecine Premium
-http://dns.explouddev.com/live/992005733/61992005733/635.m3u8
+http://dns.explouddev.com/live/287945811/148063/635.m3u8
 #EXTINF:-1 tvg-id="Telecine Touch" group-title="Filmes e Séries",Telecine Touch
-http://dns.explouddev.com/live/992005733/61992005733/589.m3u8
+http://dns.explouddev.com/live/287945811/148063/589.m3u8
 #EXTINF:-1 tvg-id="TNT" group-title="Filmes e Séries",TNT
-http://dns.explouddev.com/live/992005733/61992005733/733.m3u8
+http://dns.explouddev.com/live/287945811/148063/733.m3u8
 #EXTINF:-1 tvg-id="TNT Novelas" group-title="Filmes e Séries",TNT Novelas
-http://dns.explouddev.com/live/992005733/61992005733/264555.m3u8
+http://dns.explouddev.com/live/287945811/148063/264555.m3u8
 #EXTINF:-1 tvg-id="TNT Series" group-title="Filmes e Séries",TNT Series
-http://dns.explouddev.com/live/992005733/61992005733/738.m3u8
+http://dns.explouddev.com/live/287945811/148063/738.m3u8
 #EXTINF:-1 tvg-id="Universal TV" group-title="Filmes e Séries",Universal TV
-http://dns.explouddev.com/live/992005733/61992005733/743.m3u8
+http://dns.explouddev.com/live/287945811/148063/743.m3u8
 #EXTINF:-1 tvg-id="USA" group-title="Filmes e Séries",USA
-http://dns.explouddev.com/live/992005733/61992005733/718.m3u8
+http://dns.explouddev.com/live/287945811/148063/718.m3u8
 #EXTINF:-1 tvg-id="Warner" group-title="Filmes e Séries",Warner
-http://dns.explouddev.com/live/992005733/61992005733/749.m3u8
+http://dns.explouddev.com/live/287945811/148063/749.m3u8
 #EXTINF:-1 tvg-id="Animal Planet" group-title="Documentários",Animal Planet
-http://dns.explouddev.com/live/992005733/61992005733/2602.m3u8
+http://dns.explouddev.com/live/287945811/148063/2602.m3u8
 #EXTINF:-1 tvg-id="Arte1" group-title="Documentários",Arte1
-http://dns.explouddev.com/live/992005733/61992005733/2607.m3u8
+http://dns.explouddev.com/live/287945811/148063/2607.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel" group-title="Documentários",Discovery Channel
-http://dns.explouddev.com/live/992005733/61992005733/2577.m3u8
+http://dns.explouddev.com/live/287945811/148063/2577.m3u8
 #EXTINF:-1 tvg-id="Discovery H&amp;H" group-title="Documentários",Discovery H&amp;H
-http://dns.explouddev.com/live/992005733/61992005733/2572.m3u8
+http://dns.explouddev.com/live/287945811/148063/2572.m3u8
 #EXTINF:-1 tvg-id="Diiscovery Science" group-title="Documentários",Diiscovery Science
-http://dns.explouddev.com/live/992005733/61992005733/2582.m3u8
+http://dns.explouddev.com/live/287945811/148063/2582.m3u8
 #EXTINF:-1 tvg-id="Discovery Theater" group-title="Documentários",Discovery Theater
-http://dns.explouddev.com/live/992005733/61992005733/2587.m3u8
+http://dns.explouddev.com/live/287945811/148063/2587.m3u8
 #EXTINF:-1 tvg-id="Discovery Turbo" group-title="Documentários",Discovery Turbo
-http://dns.explouddev.com/live/992005733/61992005733/2592.m3u8
+http://dns.explouddev.com/live/287945811/148063/2592.m3u8
 #EXTINF:-1 tvg-id="Discovery World" group-title="Documentários",Discovery World
-http://dns.explouddev.com/live/992005733/61992005733/2597.m3u8
+http://dns.explouddev.com/live/287945811/148063/2597.m3u8
 #EXTINF:-1 tvg-id="History" group-title="Documentários",History
-http://dns.explouddev.com/live/992005733/61992005733/2617.m3u8
+http://dns.explouddev.com/live/287945811/148063/2617.m3u8
 #EXTINF:-1 tvg-id="History 2" group-title="Documentários",History 2
-http://dns.explouddev.com/live/992005733/61992005733/2622.m3u8
+http://dns.explouddev.com/live/287945811/148063/2622.m3u8
 #EXTINF:-1 tvg-id="Investigação Discovery" group-title="Documentários",Investigação Discovery
-http://dns.explouddev.com/live/992005733/61992005733/2632.m3u8
+http://dns.explouddev.com/live/287945811/148063/2632.m3u8
 #EXTINF:-1 tvg-id="Band Sports" group-title="Esportes",Band Sports
-http://dns.explouddev.com/live/992005733/61992005733/235.m3u8
+http://dns.explouddev.com/live/287945811/148063/235.m3u8
 #EXTINF:-1 tvg-id="Combate" group-title="Esportes",Combate
-http://dns.explouddev.com/live/992005733/61992005733/240.m3u8
+http://dns.explouddev.com/live/287945811/148063/240.m3u8
 #EXTINF:-1 tvg-id="DAZN 1" group-title="Esportes",DAZN 1
-http://dns.explouddev.com/live/992005733/61992005733/229982.m3u8
+http://dns.explouddev.com/live/287945811/148063/229982.m3u8
 #EXTINF:-1 tvg-id="DAZN 2" group-title="Esportes",DAZN 2
-http://dns.explouddev.com/live/992005733/61992005733/229984.m3u8
+http://dns.explouddev.com/live/287945811/148063/229984.m3u8
 #EXTINF:-1 tvg-id="DAZN 3" group-title="Esportes",DAZN 3
-http://dns.explouddev.com/live/992005733/61992005733/229988.m3u8
+http://dns.explouddev.com/live/287945811/148063/229988.m3u8
 #EXTINF:-1 tvg-id="Disney+ 1" group-title="Esportes",Disney+ 1
-http://dns.explouddev.com/live/992005733/61992005733/232230.m3u8
+http://dns.explouddev.com/live/287945811/148063/232230.m3u8
 #EXTINF:-1 tvg-id="Disney+ 2" group-title="Esportes",Disney+ 2
-http://dns.explouddev.com/live/992005733/61992005733/232234.m3u8
+http://dns.explouddev.com/live/287945811/148063/232234.m3u8
 #EXTINF:-1 tvg-id="Disney+ 3" group-title="Esportes",Disney+ 3
-http://dns.explouddev.com/live/992005733/61992005733/232238.m3u8
+http://dns.explouddev.com/live/287945811/148063/232238.m3u8
 #EXTINF:-1 tvg-id="Disney+ 4" group-title="Esportes",Disney+ 4
-http://dns.explouddev.com/live/992005733/61992005733/232242.m3u8
+http://dns.explouddev.com/live/287945811/148063/232242.m3u8
 #EXTINF:-1 tvg-id="ESPN" group-title="Esportes",ESPN
-http://dns.explouddev.com/live/992005733/61992005733/309458.m3u8
+http://dns.explouddev.com/live/287945811/148063/309458.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" group-title="Esportes",ESPN 2
-http://dns.explouddev.com/live/992005733/61992005733/215.m3u8
+http://dns.explouddev.com/live/287945811/148063/215.m3u8
 #EXTINF:-1 tvg-id="ESPN 3" group-title="Esportes",ESPN 3
-http://dns.explouddev.com/live/992005733/61992005733/220.m3u8
+http://dns.explouddev.com/live/287945811/148063/220.m3u8
 #EXTINF:-1 tvg-id="ESPN 4" group-title="Esportes",ESPN 4
-http://dns.explouddev.com/live/992005733/61992005733/225.m3u8
+http://dns.explouddev.com/live/287945811/148063/225.m3u8
 #EXTINF:-1 tvg-id="ESPN 5" group-title="Esportes",ESPN 5
-http://dns.explouddev.com/live/992005733/61992005733/563030.m3u8
+http://dns.explouddev.com/live/287945811/148063/563030.m3u8
 #EXTINF:-1 tvg-id="ESPN 6" group-title="Esportes",ESPN 6
-http://dns.explouddev.com/live/992005733/61992005733/563035.m3u8
+http://dns.explouddev.com/live/287945811/148063/563035.m3u8
 #EXTINF:-1 tvg-id="HBO Max" group-title="Esportes",HBO Max
-http://dns.explouddev.com/live/992005733/61992005733/121598.m3u8
+http://dns.explouddev.com/live/287945811/148063/121598.m3u8
 #EXTINF:-1 tvg-id="HBO Max 2" group-title="Esportes",HBO Max 2
-http://dns.explouddev.com/live/992005733/61992005733/121600.m3u8
+http://dns.explouddev.com/live/287945811/148063/121600.m3u8
 #EXTINF:-1 tvg-id="HBO Max 3" group-title="Esportes",HBO Max 3
-http://dns.explouddev.com/live/992005733/61992005733/121604.m3u8
+http://dns.explouddev.com/live/287945811/148063/121604.m3u8
 #EXTINF:-1 tvg-id="HBO Max 4" group-title="Esportes",HBO Max 4
-http://dns.explouddev.com/live/992005733/61992005733/121610.m3u8
+http://dns.explouddev.com/live/287945811/148063/121610.m3u8
 #EXTINF:-1 tvg-id="Paramount+" group-title="Esportes",Paramount+
-http://dns.explouddev.com/live/992005733/61992005733/250563.m3u8
+http://dns.explouddev.com/live/287945811/148063/250563.m3u8
 #EXTINF:-1 tvg-id="Paramount+ 2" group-title="Esportes",Paramount+ 2
-http://dns.explouddev.com/live/992005733/61992005733/368440.m3u8
+http://dns.explouddev.com/live/287945811/148063/368440.m3u8
 #EXTINF:-1 tvg-id="Paramount+ 3" group-title="Esportes",Paramount+ 3
-http://dns.explouddev.com/live/992005733/61992005733/250571.m3u8
+http://dns.explouddev.com/live/287945811/148063/250571.m3u8
 #EXTINF:-1 tvg-id="Paramount+ 4" group-title="Esportes",Paramount+ 4
-http://dns.explouddev.com/live/992005733/61992005733/368448.m3u8
+http://dns.explouddev.com/live/287945811/148063/368448.m3u8
 #EXTINF:-1 tvg-id="Premiere" group-title="Esportes",Premiere
-http://dns.explouddev.com/live/992005733/61992005733/494.m3u8
+http://dns.explouddev.com/live/287945811/148063/494.m3u8
 #EXTINF:-1 tvg-id="Premiere 2" group-title="Esportes",Premiere 2
-http://dns.explouddev.com/live/992005733/61992005733/499.m3u8
+http://dns.explouddev.com/live/287945811/148063/499.m3u8
 #EXTINF:-1 tvg-id="Premiere 3" group-title="Esportes",Premiere 3
-http://dns.explouddev.com/live/992005733/61992005733/504.m3u8
+http://dns.explouddev.com/live/287945811/148063/504.m3u8
 #EXTINF:-1 tvg-id="Premiere 4" group-title="Esportes",Premiere 4
-http://dns.explouddev.com/live/992005733/61992005733/509.m3u8
+http://dns.explouddev.com/live/287945811/148063/509.m3u8
 #EXTINF:-1 tvg-id="Premiere 5" group-title="Esportes",Premiere 5
-http://dns.explouddev.com/live/992005733/61992005733/514.m3u8
+http://dns.explouddev.com/live/287945811/148063/514.m3u8
 #EXTINF:-1 tvg-id="Premiere 6" group-title="Esportes",Premiere 6
-http://dns.explouddev.com/live/992005733/61992005733/519.m3u8
+http://dns.explouddev.com/live/287945811/148063/519.m3u8
 #EXTINF:-1 tvg-id="Premiere 7" group-title="Esportes",Premiere 7
-http://dns.explouddev.com/live/992005733/61992005733/524.m3u8
+http://dns.explouddev.com/live/287945811/148063/524.m3u8
 #EXTINF:-1 tvg-id="Premiere 8" group-title="Esportes",Premiere 8
-http://dns.explouddev.com/live/992005733/61992005733/380749.m3u8
+http://dns.explouddev.com/live/287945811/148063/380749.m3u8
 #EXTINF:-1 tvg-id="Prime Video" group-title="Esportes",Prime Video
-http://dns.explouddev.com/live/992005733/61992005733/537640.m3u8
+http://dns.explouddev.com/live/287945811/148063/537640.m3u8
 #EXTINF:-1 tvg-id="Prime Video 2" group-title="Esportes",Prime Video 2
-http://dns.explouddev.com/live/992005733/61992005733/537642.m3u8
+http://dns.explouddev.com/live/287945811/148063/537642.m3u8
 #EXTINF:-1 tvg-id="Prime Video 3" group-title="Esportes",Prime Video 3
-http://dns.explouddev.com/live/992005733/61992005733/537644.m3u8
+http://dns.explouddev.com/live/287945811/148063/537644.m3u8
 #EXTINF:-1 tvg-id="SportTV" group-title="Esportes",SportTV
-http://dns.explouddev.com/live/992005733/61992005733/118881.m3u8
+http://dns.explouddev.com/live/287945811/148063/118881.m3u8
 #EXTINF:-1 tvg-id="SportTV 2" group-title="Esportes",SportTV 2
-http://dns.explouddev.com/live/992005733/61992005733/554.m3u8
+http://dns.explouddev.com/live/287945811/148063/554.m3u8
 #EXTINF:-1 tvg-id="SportTV 3" group-title="Esportes",SportTV 3
-http://dns.explouddev.com/live/992005733/61992005733/559.m3u8
+http://dns.explouddev.com/live/287945811/148063/559.m3u8
 #EXTINF:-1 tvg-id="Nosso Futebol" group-title="Esportes",Nosso Futebol
-http://dns.explouddev.com/live/992005733/61992005733/301421.m3u8
+http://dns.explouddev.com/live/287945811/148063/301421.m3u8
 #EXTINF:-1 tvg-id="UFC Fight Pass" group-title="Esportes",UFC Fight Pass
-http://dns.explouddev.com/live/992005733/61992005733/250112.m3u8
+http://dns.explouddev.com/live/287945811/148063/250112.m3u8
 #EXTINF:-1 tvg-id="XSports" group-title="Esportes",XSports
-http://dns.explouddev.com/live/992005733/61992005733/580835.m3u8
+http://dns.explouddev.com/live/287945811/148063/580835.m3u8
 #EXTINF:-1 tvg-id="BIS" group-title="Variedades",BIS
-http://dns.explouddev.com/live/992005733/61992005733/376504.m3u8
+http://dns.explouddev.com/live/287945811/148063/376504.m3u8
 #EXTINF:-1 tvg-id="Curta!" group-title="Variedades",Curta!
-http://dns.explouddev.com/live/992005733/61992005733/2612.m3u8
+http://dns.explouddev.com/live/287945811/148063/2612.m3u8
 #EXTINF:-1 tvg-id="Fashion TV" group-title="Variedades",Fashion TV
-http://dns.explouddev.com/live/992005733/61992005733/2476.m3u8
+http://dns.explouddev.com/live/287945811/148063/2476.m3u8
 #EXTINF:-1 tvg-id="Fish TV" group-title="Variedades",Fish TV
-http://dns.explouddev.com/live/992005733/61992005733/248.m3u8
+http://dns.explouddev.com/live/287945811/148063/248.m3u8
 #EXTINF:-1 tvg-id="Food Network" group-title="Variedades",Food Network
-http://dns.explouddev.com/live/992005733/61992005733/2480.m3u8
+http://dns.explouddev.com/live/287945811/148063/2480.m3u8
 #EXTINF:-1 tvg-id="GNT" group-title="Variedades",GNT
-http://dns.explouddev.com/live/992005733/61992005733/377238.m3u8
+http://dns.explouddev.com/live/287945811/148063/377238.m3u8
 #EXTINF:-1 tvg-id="Lifetime" group-title="Variedades",Lifetime
-http://dns.explouddev.com/live/992005733/61992005733/2488.m3u8
+http://dns.explouddev.com/live/287945811/148063/2488.m3u8
 #EXTINF:-1 tvg-id="Modo Viagem" group-title="Variedades",Modo Viagem
-http://dns.explouddev.com/live/992005733/61992005733/89181.m3u8
+http://dns.explouddev.com/live/287945811/148063/89181.m3u8
 #EXTINF:-1 tvg-id="Multishow" group-title="Variedades",Multishow
-http://dns.explouddev.com/live/992005733/61992005733/377241.m3u8
+http://dns.explouddev.com/live/287945811/148063/377241.m3u8
 #EXTINF:-1 tvg-id="Music Box Brasil" group-title="Variedades",Music Box Brasil
-http://dns.explouddev.com/live/992005733/61992005733/2520.m3u8
+http://dns.explouddev.com/live/287945811/148063/2520.m3u8
 #EXTINF:-1 tvg-id="Prime Box Brasil" group-title="Variedades",Prime Box Brasil
-http://dns.explouddev.com/live/992005733/61992005733/537632.m3u8
+http://dns.explouddev.com/live/287945811/148063/537632.m3u8
 #EXTINF:-1 tvg-id="TLC" group-title="Variedades",TLC
-http://dns.explouddev.com/live/992005733/61992005733/728.m3u8
+http://dns.explouddev.com/live/287945811/148063/728.m3u8
 #EXTINF:-1 tvg-id="Trace Brasil" group-title="Variedades",Trace Brasil
-http://dns.explouddev.com/live/992005733/61992005733/2532.m3u8
+http://dns.explouddev.com/live/287945811/148063/2532.m3u8
 #EXTINF:-1 tvg-id="Travel Box Brasil" group-title="Variedades",Travel Box Brasil
-http://dns.explouddev.com/live/992005733/61992005733/376353.m3u8
+http://dns.explouddev.com/live/287945811/148063/376353.m3u8
 #EXTINF:-1 tvg-id="Band News" group-title="Notícias",Band News
-http://dns.explouddev.com/live/992005733/61992005733/469.m3u8
+http://dns.explouddev.com/live/287945811/148063/469.m3u8
 #EXTINF:-1 tvg-id="CNN Brasil" group-title="Notícias",CNN Brasil
-http://dns.explouddev.com/live/992005733/61992005733/474.m3u8
+http://dns.explouddev.com/live/287945811/148063/474.m3u8
 #EXTINF:-1 tvg-id="Globo News" group-title="Notícias",Globo News
-http://dns.explouddev.com/live/992005733/61992005733/479.m3u8
+http://dns.explouddev.com/live/287945811/148063/479.m3u8
 #EXTINF:-1 tvg-id="Record News" group-title="Notícias",Record News
-http://dns.explouddev.com/live/992005733/61992005733/488.m3u8
+http://dns.explouddev.com/live/287945811/148063/488.m3u8
 #EXTINF:-1 tvg-id="Adult Swim" group-title="Infantil",Adult Swim
-http://dns.explouddev.com/live/992005733/61992005733/376344.m3u8
+http://dns.explouddev.com/live/287945811/148063/376344.m3u8
 #EXTINF:-1 tvg-id="AniTV" group-title="Infantil",AniTV
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network" group-title="Infantil",Cartoon Network
-http://dns.explouddev.com/live/992005733/61992005733/352.m3u8
+http://dns.explouddev.com/live/287945811/148063/352.m3u8
 #EXTINF:-1 tvg-id="Cartoonito" group-title="Infantil",Cartoonito
-http://dns.explouddev.com/live/992005733/61992005733/110683.m3u8
+http://dns.explouddev.com/live/287945811/148063/110683.m3u8
 #EXTINF:-1 tvg-id="Discovery Kids" group-title="Infantil",Discovery Kids
-http://dns.explouddev.com/live/992005733/61992005733/364.m3u8
+http://dns.explouddev.com/live/287945811/148063/364.m3u8
 #EXTINF:-1 tvg-id="DumDum" group-title="Infantil",DumDum
-http://dns.explouddev.com/live/992005733/61992005733/311639.m3u8
+http://dns.explouddev.com/live/287945811/148063/311639.m3u8
 #EXTINF:-1 tvg-id="Gloob" group-title="Infantil",Gloob
-http://dns.explouddev.com/live/992005733/61992005733/377228.m3u8
+http://dns.explouddev.com/live/287945811/148063/377228.m3u8
 #EXTINF:-1 tvg-id="Gloobinho" group-title="Infantil",Gloobinho
-http://dns.explouddev.com/live/992005733/61992005733/377232.m3u8
+http://dns.explouddev.com/live/287945811/148063/377232.m3u8
 #EXTINF:-1 tvg-id="Loading" group-title="Infantil",Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Band" group-title="Abertos",Band
-http://dns.explouddev.com/live/992005733/61992005733/255465.m3u8
+http://dns.explouddev.com/live/287945811/148063/255465.m3u8
 #EXTINF:-1 tvg-id="TV Globo" group-title="Abertos",TV Globo
-http://dns.explouddev.com/live/992005733/61992005733/2455.m3u8
+http://dns.explouddev.com/live/287945811/148063/2455.m3u8
 #EXTINF:-1 tvg-id="Record TV" group-title="Abertos",Record TV
-http://dns.explouddev.com/live/992005733/61992005733/244129.m3u8
+http://dns.explouddev.com/live/287945811/148063/244129.m3u8
 #EXTINF:-1 tvg-id="SBT" group-title="Abertos",SBT
-http://dns.explouddev.com/live/992005733/61992005733/244161.m3u8
+http://dns.explouddev.com/live/287945811/148063/244161.m3u8
